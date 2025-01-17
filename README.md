@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+Hello, I am Muhammad Abdullah Tanveer!👋 
 
-                                                   Hello, I am Muhammad Abdullah Tanveer!👋 
-                                        Certified 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 & 𝐍𝐞𝐱𝐭.𝐣𝐬 Developer, and Computer Scientist.
-I have a keen interest in Artificial Intelligence and am currently expanding my knowledge in Applied Gen-AI Cloud Development. I am eager to collaborate on AI projects and contribute to                            innovative solutions.
+Certified 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 & 𝐍𝐞𝐱𝐭.𝐣𝐬 Developer, and Computer Scientist.
+
+I have a keen interest in Artificial Intelligence and am currently expanding my knowledge in Applied Gen-AI Cloud Development. I am eager to collaborate on AI projects and contribute to innovative solutions.
 
 
   

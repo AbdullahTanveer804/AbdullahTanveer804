@@ -1,6 +1,6 @@
 Hello, I am Muhammad Abdullah Tanveer!👋 
 
-Certified 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 & 𝐍𝐞𝐱𝐭.𝐣𝐬 Developer, and Computer Scientist.
+Certified 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐍𝐞𝐱𝐭.𝐣𝐬 & 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 Developer, and Computer Scientist.
 
 I have a keen interest in Artificial Intelligence and am currently expanding my knowledge in Applied Gen-AI Cloud Development. I am eager to collaborate on AI projects and contribute to innovative solutions.
 
